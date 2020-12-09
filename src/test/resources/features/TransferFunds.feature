@@ -1,5 +1,6 @@
 Feature: Transfer Funds Features
 
+  @Regression
   Scenario: Validate Transfer Funds Page Title
     Given I am on Parabank application login page
     And I enter valid username and password
