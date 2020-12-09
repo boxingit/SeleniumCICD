@@ -7,4 +7,5 @@
 ## 1. Install Jenkins on AWS Linux EC2 instance
 ## 2. Configure Sauce Labs on the Linux EC2 instance
 ## 3. Run the tests in this repo on Sauce Labs via Jenkins
-## 4. Additionally enable Cucumber report feature on the Jenkins
+## 4. Enable Cucumber report feature on the Jenkins
+## 5. Enable Jenkins to send emails regarding test results after each build
